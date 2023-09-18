@@ -1,2 +1,2 @@
 # Neural-networks
- Implemented a multi-layer neural network with varying hidden layers, trained on 80% of the data, and evaluated its performance using different activation functions and evaluation metrics.
+Implement the two layer network for m-samples, n-features (both Forward propagation and Backward propagation) and for N layers in the hidden layer. Split the data and train your network with 80% of the data. Test your network with the test data. Report the evaluation metrics for varying number of layers in the network. Also evaluate one more activation function (ReLU/tanh) other than sigmoid function.
